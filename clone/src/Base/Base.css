@@ -54,11 +54,23 @@
 .margin_top-m {
     margin-top: 14px;
 }
+.margin_top-l {
+    margin-top: 16px;
+}
+.margin_top-xl {
+    margin-top: 18px;
+}
 .margin_bottom-s {
     margin-bottom: 12px;
 }
 .margin_bottom-m {
     margin-bottom: 14px;
+}
+.margin_bottom-l {
+    margin-bottom: 16px;
+}
+.margin_bottom-xl {
+    margin-bottom: 18px;
 }
 .margin_left-s {
     margin-left: 12px;
@@ -66,11 +78,23 @@
 .margin_left-m {
     margin-left: 14px;
 }
+.margin_left-l {
+    margin-left: 16px;
+}
+.margin_left-xl {
+    margin-left: 18px;
+}
 .margin_right-s {
     margin-right: 12px;
 }
 .margin_right-m {
     margin-right: 14px;
+}
+.margin_right-l {
+    margin-right: 16px;
+}
+.margin_right-xl {
+    margin-right: 18px;
 }
 
 .padding_top-s {

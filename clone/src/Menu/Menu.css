@@ -1,0 +1,12 @@
+.Menu__width {
+    width: 220px;
+}
+
+.Menu__background {
+    background: #000000;
+}
+
+.Menu__notMarker {
+    list-style: none;
+    padding: 0;
+}
